@@ -878,6 +878,7 @@ url
 useAPIServer
 username
 userspace
+userspaceFallback
 uuid
 vCPU
 vCPUs
@@ -908,6 +909,7 @@ whitelists
 whitespace
 wildcard
 wildcards
+wireguard
 workflow
 workflows
 workspace
